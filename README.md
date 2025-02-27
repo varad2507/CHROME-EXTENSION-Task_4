@@ -17,3 +17,6 @@
 
 
 # OUTPUT OF THE TASK
+
+
+![Image](https://github.com/user-attachments/assets/3d722b36-8a61-4df0-be64-1f78349f419c)
